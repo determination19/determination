@@ -14,7 +14,7 @@ body{
 	background-color: #03336e;
 	padding: 5px;
 	position: fixed;
-	border-bottom: 4px solid #0cb8b6;
+	border-bottom: 4px solid #fff;
 	z-index: 9999;
 }
 .hf_left{
